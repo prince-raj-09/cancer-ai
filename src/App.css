@@ -13,6 +13,10 @@
   }
 }
 
+body {
+  background-color: #F38181; /* Update background color */
+}
+
 .App-header {
   background-color: black; /* Update background color */
   min-height: 100vh;
