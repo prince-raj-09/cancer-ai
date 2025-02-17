@@ -5,7 +5,4 @@ scikit-learn
 numpy
 pandas
 
-git add requirements.txt
-git commit -m "Fixed requirements.txt formatting"
-git push origin master
 
