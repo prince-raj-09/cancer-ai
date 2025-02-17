@@ -1,8 +1,11 @@
-pip install -r requirements.txt
+
 fastapi
 uvicorn
 scikit-learn
 numpy
 pandas
 poetry export -f requirements.txt --output requirements.txt --without-hashes
+git add requirements.txt
+git commit -m "Fixed requirements.txt formatting"
+git push origin master
 
